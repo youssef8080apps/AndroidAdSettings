@@ -11,7 +11,7 @@
     "showHideInterstitial": 1,
     "showHomInterstitial": 1,
     "show_hide_reward": 1,
-    "version": 15,
+    "version": 13,
     "clicks": 7,
     "show_update_cancel": 1,
     "admob_id": "ca-app-pub-3940256099942544~3347511713",
@@ -24,5 +24,6 @@
     "backupImageUrl": "https://youssef-apps.com/images/b.png",
     "update_url": "https://youssef-apps.com/",
     "banner_url": "https://youssef-apps.com/"
+    
     
 }
